@@ -1,7 +1,7 @@
 import requests
 import time
 
-url = "http://localhost:5000/add"
+url = "http://localhost:5000/api/add"
 
 while(1):
     # Wait for 10 seconds
